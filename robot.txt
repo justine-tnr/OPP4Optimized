@@ -1,0 +1,6 @@
+User-Agent: * 
+Disallow: /intranet/ 
+Disallow: /login.php 
+Allow: /*.css?*
+
+Sitemap: https://justine-tnr.github.io/OPP4optimized/sitemap.xml
